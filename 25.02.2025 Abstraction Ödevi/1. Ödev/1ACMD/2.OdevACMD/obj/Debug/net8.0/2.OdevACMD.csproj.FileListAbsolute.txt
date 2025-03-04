@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\1. Ödev\2.OdevACMD\2.OdevACMD\bin\Debug\net8.0\2.OdevACMD.exe
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\1. Ödev\2.OdevACMD\2.OdevACMD\bin\Debug\net8.0\2.OdevACMD.deps.json
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\1. Ödev\2.OdevACMD\2.OdevACMD\bin\Debug\net8.0\2.OdevACMD.runtimeconfig.json
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\1. Ödev\2.OdevACMD\2.OdevACMD\bin\Debug\net8.0\2.OdevACMD.dll
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\1. Ödev\2.OdevACMD\2.OdevACMD\bin\Debug\net8.0\2.OdevACMD.pdb
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\1. Ödev\2.OdevACMD\2.OdevACMD\obj\Debug\net8.0\2.OdevACMD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\1. Ödev\2.OdevACMD\2.OdevACMD\obj\Debug\net8.0\2.OdevACMD.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\1. Ödev\2.OdevACMD\2.OdevACMD\obj\Debug\net8.0\2.OdevACMD.AssemblyInfo.cs
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\1. Ödev\2.OdevACMD\2.OdevACMD\obj\Debug\net8.0\2.OdevACMD.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\1. Ödev\2.OdevACMD\2.OdevACMD\obj\Debug\net8.0\2.OdevACMD.dll
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\1. Ödev\2.OdevACMD\2.OdevACMD\obj\Debug\net8.0\refint\2.OdevACMD.dll
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\1. Ödev\2.OdevACMD\2.OdevACMD\obj\Debug\net8.0\2.OdevACMD.pdb
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\1. Ödev\2.OdevACMD\2.OdevACMD\obj\Debug\net8.0\2.OdevACMD.genruntimeconfig.cache
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\1. Ödev\2.OdevACMD\2.OdevACMD\obj\Debug\net8.0\ref\2.OdevACMD.dll
