@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\3. Ödev\3ACMD\3ACMD\obj\Debug\net8.0\3ACMD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\3. Ödev\3ACMD\3ACMD\obj\Debug\net8.0\3ACMD.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\3. Ödev\3ACMD\3ACMD\obj\Debug\net8.0\3ACMD.AssemblyInfo.cs
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\3. Ödev\3ACMD\3ACMD\obj\Debug\net8.0\3ACMD.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\3. Ödev\3ACMD\3ACMD\bin\Debug\net8.0\3ACMD.exe
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\3. Ödev\3ACMD\3ACMD\bin\Debug\net8.0\3ACMD.deps.json
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\3. Ödev\3ACMD\3ACMD\bin\Debug\net8.0\3ACMD.runtimeconfig.json
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\3. Ödev\3ACMD\3ACMD\bin\Debug\net8.0\3ACMD.dll
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\3. Ödev\3ACMD\3ACMD\bin\Debug\net8.0\3ACMD.pdb
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\3. Ödev\3ACMD\3ACMD\obj\Debug\net8.0\3ACMD.dll
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\3. Ödev\3ACMD\3ACMD\obj\Debug\net8.0\refint\3ACMD.dll
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\3. Ödev\3ACMD\3ACMD\obj\Debug\net8.0\3ACMD.pdb
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\3. Ödev\3ACMD\3ACMD\obj\Debug\net8.0\3ACMD.genruntimeconfig.cache
+C:\Users\user\source\repos\AcunMedya-Akademi-devler-ve-Projeler\2. Hafta Ödevi Tarih Yazılcak\3. Ödev\3ACMD\3ACMD\obj\Debug\net8.0\ref\3ACMD.dll
