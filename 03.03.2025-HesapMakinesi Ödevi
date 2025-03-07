@@ -1,0 +1,73 @@
+using System;
+
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        //BU Proje 03.03.2025 Tarihli AcunMedya Akademi Ödevidir.
+        //Muhammed Hazar Çağlayan Tarafından Yapılmıştır.
+
+        //PROJE DETAYLARI --------------------------------------------------------------------------------
+        /*Switch Case Yapısını Kullanarak hesap makinesinde işlem seçme özelliği Ekledim.
+         * Program Sonunda Kullanıcıya yeni bir işlemle devam etmek istediğini soran bir If yapısı ve While Döngüsü ekledim bu sayede program tek kullanımlık olmaktan çıktı.
+         * Ekstra Olarak Mod Alma Özelliği ekledim.
+         * İşlem Geçişlerinde thread.sleep özelliği ile biraz bekleme süresi ekledim.
+         * system.clear özelliği ilede işlem yığını oluşturmamasını sağlayarak konsola temiz bir görünüm kattım.
+         -------------------------------------------------------------------------------------------------*/
+
+
+        bool newProcess = true;
+        while (newProcess = true)
+        {
+            Console.Write("Merhaba Lütfen 1. Sayiyi Giriniz:");
+            string say1str = Console.ReadLine();
+            int say1 = Convert.ToInt32(say1str);
+            Console.WriteLine("-------------------------------------\n" +
+                              "1.Toplama\n" +
+                              "2.Cikarma\n" +
+                              "3.Carpma\n" +
+                              "4.Bolme\n" +
+                              "5.Mod(Kalan Hesaplama)\n" +
+                              "Yapmak İstediğiniz işlemi seçiniz:");
+            string islemNo = Console.ReadLine();
+            int islem = Convert.ToInt32(islemNo);
+            Console.Write("Lütfen 2. Sayiyi Giriniz:");
+            string say2str = Console.ReadLine();
+            int say2 = Convert.ToInt32(say2str);
+            switch (islem)
+            {
+                case 1:
+                    Console.WriteLine(say1 + " + " + say2 + " = " + (say1 + say2));
+                    break;
+                case 2:
+                    Console.WriteLine(say1 + " - " + say2 + " = " + (say1 - say2));
+                    break;
+                case 3:
+                    Console.WriteLine(say1 + " x " + say2 + " = " + (say1 * say2)); break;
+                case 4:
+                    Console.WriteLine(say1 + " / " + say2 + " = " + (say1 / say2));
+                    break;
+                case 5:
+                    Console.WriteLine(say1 + " % " + say2 + " = " + (say1 % say2));
+                    break;
+            }
+
+            Console.WriteLine("Başka İslem Yapmak Istiyormusunuz:(e/h)");
+            string cevap1 = Console.ReadLine();
+            if (cevap1 == "e")
+            {
+                newProcess = true;
+                Console.WriteLine("Tamamdır Yönlendiriliyorsunuz...");
+                Thread.Sleep(2000);
+                Console.Clear();
+            }
+            else if (cevap1 == "h")
+            {
+                Console.Clear();
+                Console.WriteLine("Gorusmek Uzere...");
+                Thread.Sleep(2000);
+                newProcess = false;
+            }
+        }
+    }
+}
