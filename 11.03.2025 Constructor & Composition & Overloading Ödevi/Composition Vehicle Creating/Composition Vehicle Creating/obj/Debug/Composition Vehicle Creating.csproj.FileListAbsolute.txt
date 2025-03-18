@@ -1,0 +1,7 @@
+C:\Users\Hazar\source\repos\Composition Vehicle Creating\Composition Vehicle Creating\bin\Debug\Composition Vehicle Creating.exe.config
+C:\Users\Hazar\source\repos\Composition Vehicle Creating\Composition Vehicle Creating\bin\Debug\Composition Vehicle Creating.exe
+C:\Users\Hazar\source\repos\Composition Vehicle Creating\Composition Vehicle Creating\bin\Debug\Composition Vehicle Creating.pdb
+C:\Users\Hazar\source\repos\Composition Vehicle Creating\Composition Vehicle Creating\obj\Debug\Composition Vehicle Creating.csproj.AssemblyReference.cache
+C:\Users\Hazar\source\repos\Composition Vehicle Creating\Composition Vehicle Creating\obj\Debug\Composition Vehicle Creating.csproj.CoreCompileInputs.cache
+C:\Users\Hazar\source\repos\Composition Vehicle Creating\Composition Vehicle Creating\obj\Debug\Composition Vehicle Creating.exe
+C:\Users\Hazar\source\repos\Composition Vehicle Creating\Composition Vehicle Creating\obj\Debug\Composition Vehicle Creating.pdb
