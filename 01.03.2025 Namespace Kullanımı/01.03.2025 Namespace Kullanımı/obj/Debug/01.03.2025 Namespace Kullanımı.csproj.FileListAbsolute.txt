@@ -1,0 +1,7 @@
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\01.03.2025 Namespace Kullanımı\01.03.2025 Namespace Kullanımı\bin\Debug\01.03.2025 Namespace Kullanımı.exe.config
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\01.03.2025 Namespace Kullanımı\01.03.2025 Namespace Kullanımı\bin\Debug\01.03.2025 Namespace Kullanımı.exe
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\01.03.2025 Namespace Kullanımı\01.03.2025 Namespace Kullanımı\bin\Debug\01.03.2025 Namespace Kullanımı.pdb
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\01.03.2025 Namespace Kullanımı\01.03.2025 Namespace Kullanımı\obj\Debug\01.03.2025 Namespace Kullanımı.csproj.AssemblyReference.cache
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\01.03.2025 Namespace Kullanımı\01.03.2025 Namespace Kullanımı\obj\Debug\01.03.2025 Namespace Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\01.03.2025 Namespace Kullanımı\01.03.2025 Namespace Kullanımı\obj\Debug\01.03.2025 Namespace Kullanımı.exe
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\01.03.2025 Namespace Kullanımı\01.03.2025 Namespace Kullanımı\obj\Debug\01.03.2025 Namespace Kullanımı.pdb
