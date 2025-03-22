@@ -1,0 +1,7 @@
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\03.03.2025 Diziler ve Döngüler Ödevi\03.03.2025 Diziler ve Döngüler Ödevi\obj\Debug\03.03.2025 Diziler ve Döngüler Ödevi.csproj.AssemblyReference.cache
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\03.03.2025 Diziler ve Döngüler Ödevi\03.03.2025 Diziler ve Döngüler Ödevi\obj\Debug\03.03.2025 Diziler ve Döngüler Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\03.03.2025 Diziler ve Döngüler Ödevi\03.03.2025 Diziler ve Döngüler Ödevi\bin\Debug\03.03.2025 Diziler ve Döngüler Ödevi.exe.config
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\03.03.2025 Diziler ve Döngüler Ödevi\03.03.2025 Diziler ve Döngüler Ödevi\bin\Debug\03.03.2025 Diziler ve Döngüler Ödevi.exe
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\03.03.2025 Diziler ve Döngüler Ödevi\03.03.2025 Diziler ve Döngüler Ödevi\bin\Debug\03.03.2025 Diziler ve Döngüler Ödevi.pdb
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\03.03.2025 Diziler ve Döngüler Ödevi\03.03.2025 Diziler ve Döngüler Ödevi\obj\Debug\03.03.2025 Diziler ve Döngüler Ödevi.exe
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\03.03.2025 Diziler ve Döngüler Ödevi\03.03.2025 Diziler ve Döngüler Ödevi\obj\Debug\03.03.2025 Diziler ve Döngüler Ödevi.pdb
