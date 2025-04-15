@@ -1,0 +1,34 @@
+[
+  {
+    "UrunAdi": "Kulaklýk",
+    "Fiyat": 250
+  },
+  {
+    "UrunAdi": "Mouse",
+    "Fiyat": 500
+  },
+  {
+    "UrunAdi": "Ýphone 16e",
+    "Fiyat": 44590
+  }
+  {
+    "UrunAdi": "Ayakkabý",
+    "Fiyat": 3700
+  }
+  {
+    "UrunAdi": "Bilgisayar",
+    "Fiyat": 37500
+  }
+  {
+    "UrunAdi": "Futbol Topu",
+    "Fiyat": 600
+  }
+  {
+    "UrunAdi": "Tam Buðday Ekmeði",
+    "Fiyat": 50
+  }
+  {
+    "UrunAdi": "Peynir",
+    "Fiyat": 120
+  }
+]

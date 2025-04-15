@@ -1,0 +1,17 @@
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\JSON-Ödevi\JSON-Ödevi\bin\Debug\net8.0-windows\JSON-Ödevi.exe
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\JSON-Ödevi\JSON-Ödevi\bin\Debug\net8.0-windows\JSON-Ödevi.deps.json
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\JSON-Ödevi\JSON-Ödevi\bin\Debug\net8.0-windows\JSON-Ödevi.runtimeconfig.json
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\JSON-Ödevi\JSON-Ödevi\bin\Debug\net8.0-windows\JSON-Ödevi.dll
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\JSON-Ödevi\JSON-Ödevi\bin\Debug\net8.0-windows\JSON-Ödevi.pdb
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\JSON-Ödevi\JSON-Ödevi\obj\Debug\net8.0-windows\JSON_Ödevi.Form1.resources
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\JSON-Ödevi\JSON-Ödevi\obj\Debug\net8.0-windows\JSON-Ödevi.csproj.GenerateResource.cache
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\JSON-Ödevi\JSON-Ödevi\obj\Debug\net8.0-windows\JSON-Ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\JSON-Ödevi\JSON-Ödevi\obj\Debug\net8.0-windows\JSON-Ödevi.AssemblyInfoInputs.cache
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\JSON-Ödevi\JSON-Ödevi\obj\Debug\net8.0-windows\JSON-Ödevi.AssemblyInfo.cs
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\JSON-Ödevi\JSON-Ödevi\obj\Debug\net8.0-windows\JSON-Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\JSON-Ödevi\JSON-Ödevi\obj\Debug\net8.0-windows\JSON-Ödevi.dll
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\JSON-Ödevi\JSON-Ödevi\obj\Debug\net8.0-windows\refint\JSON-Ödevi.dll
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\JSON-Ödevi\JSON-Ödevi\obj\Debug\net8.0-windows\JSON-Ödevi.pdb
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\JSON-Ödevi\JSON-Ödevi\obj\Debug\net8.0-windows\JSON-Ödevi.genruntimeconfig.cache
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\JSON-Ödevi\JSON-Ödevi\obj\Debug\net8.0-windows\ref\JSON-Ödevi.dll
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\JSON-Ödevi\JSON-Ödevi\bin\Debug\net8.0-windows\urunler.json

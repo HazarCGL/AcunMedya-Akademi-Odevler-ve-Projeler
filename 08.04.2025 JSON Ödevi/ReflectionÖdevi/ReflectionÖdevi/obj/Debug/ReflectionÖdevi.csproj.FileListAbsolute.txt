@@ -1,0 +1,7 @@
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\ReflectionÖdevi\ReflectionÖdevi\bin\Debug\ReflectionÖdevi.exe.config
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\ReflectionÖdevi\ReflectionÖdevi\bin\Debug\ReflectionÖdevi.exe
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\ReflectionÖdevi\ReflectionÖdevi\bin\Debug\ReflectionÖdevi.pdb
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\ReflectionÖdevi\ReflectionÖdevi\obj\Debug\ReflectionÖdevi.csproj.AssemblyReference.cache
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\ReflectionÖdevi\ReflectionÖdevi\obj\Debug\ReflectionÖdevi.csproj.CoreCompileInputs.cache
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\ReflectionÖdevi\ReflectionÖdevi\obj\Debug\ReflectionÖdevi.exe
+C:\Users\Hazar\source\repos\AcunMedya-Akademi-Odevler-ve-Projeler\08.04.2025 JSON Ödevi\ReflectionÖdevi\ReflectionÖdevi\obj\Debug\ReflectionÖdevi.pdb

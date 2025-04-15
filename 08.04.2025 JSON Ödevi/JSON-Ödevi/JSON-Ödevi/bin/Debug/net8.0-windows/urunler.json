@@ -1,0 +1,34 @@
+[
+  {
+    "UrunAdi": "Kulaklik",
+    "Fiyat": 250
+  },
+  {
+    "UrunAdi": "Mouse",
+    "Fiyat": 500
+  },
+  {
+    "UrunAdi": "Iphone 16e",
+    "Fiyat": 44590
+  },
+  {
+    "UrunAdi": "Ayakkabi",
+    "Fiyat": 3700
+  },
+  {
+    "UrunAdi": "Bilgisayar",
+    "Fiyat": 37500
+  },
+  {
+    "UrunAdi": "Futbol Topu",
+    "Fiyat": 600
+  },
+  {
+    "UrunAdi": "Tam Bugday Ekmegi",
+    "Fiyat": 50
+  },
+  {
+    "UrunAdi": "Peynir",
+    "Fiyat": 120
+  }
+]
