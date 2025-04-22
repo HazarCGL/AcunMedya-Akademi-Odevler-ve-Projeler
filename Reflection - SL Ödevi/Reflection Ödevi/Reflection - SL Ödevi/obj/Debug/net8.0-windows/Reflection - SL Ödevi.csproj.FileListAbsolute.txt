@@ -1,0 +1,16 @@
+C:\Users\Hazar\source\repos\Reflection - SL Ödevi\Reflection - SL Ödevi\bin\Debug\net8.0-windows\Reflection - SL Ödevi.exe
+C:\Users\Hazar\source\repos\Reflection - SL Ödevi\Reflection - SL Ödevi\bin\Debug\net8.0-windows\Reflection - SL Ödevi.deps.json
+C:\Users\Hazar\source\repos\Reflection - SL Ödevi\Reflection - SL Ödevi\bin\Debug\net8.0-windows\Reflection - SL Ödevi.runtimeconfig.json
+C:\Users\Hazar\source\repos\Reflection - SL Ödevi\Reflection - SL Ödevi\bin\Debug\net8.0-windows\Reflection - SL Ödevi.dll
+C:\Users\Hazar\source\repos\Reflection - SL Ödevi\Reflection - SL Ödevi\bin\Debug\net8.0-windows\Reflection - SL Ödevi.pdb
+C:\Users\Hazar\source\repos\Reflection - SL Ödevi\Reflection - SL Ödevi\obj\Debug\net8.0-windows\Reflection___SL_Ödevi.Form1.resources
+C:\Users\Hazar\source\repos\Reflection - SL Ödevi\Reflection - SL Ödevi\obj\Debug\net8.0-windows\Reflection - SL Ödevi.csproj.GenerateResource.cache
+C:\Users\Hazar\source\repos\Reflection - SL Ödevi\Reflection - SL Ödevi\obj\Debug\net8.0-windows\Reflection - SL Ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hazar\source\repos\Reflection - SL Ödevi\Reflection - SL Ödevi\obj\Debug\net8.0-windows\Reflection - SL Ödevi.AssemblyInfoInputs.cache
+C:\Users\Hazar\source\repos\Reflection - SL Ödevi\Reflection - SL Ödevi\obj\Debug\net8.0-windows\Reflection - SL Ödevi.AssemblyInfo.cs
+C:\Users\Hazar\source\repos\Reflection - SL Ödevi\Reflection - SL Ödevi\obj\Debug\net8.0-windows\Reflection - SL Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Hazar\source\repos\Reflection - SL Ödevi\Reflection - SL Ödevi\obj\Debug\net8.0-windows\Reflection - SL Ödevi.dll
+C:\Users\Hazar\source\repos\Reflection - SL Ödevi\Reflection - SL Ödevi\obj\Debug\net8.0-windows\refint\Reflection - SL Ödevi.dll
+C:\Users\Hazar\source\repos\Reflection - SL Ödevi\Reflection - SL Ödevi\obj\Debug\net8.0-windows\Reflection - SL Ödevi.pdb
+C:\Users\Hazar\source\repos\Reflection - SL Ödevi\Reflection - SL Ödevi\obj\Debug\net8.0-windows\Reflection - SL Ödevi.genruntimeconfig.cache
+C:\Users\Hazar\source\repos\Reflection - SL Ödevi\Reflection - SL Ödevi\obj\Debug\net8.0-windows\ref\Reflection - SL Ödevi.dll

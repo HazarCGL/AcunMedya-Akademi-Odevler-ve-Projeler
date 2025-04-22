@@ -1,0 +1,16 @@
+C:\Users\Hazar\source\repos\Ödeme Sistemi Ödevi\Ödeme Sistemi Ödevi\bin\Debug\net8.0-windows\Ödeme Sistemi Ödevi.exe
+C:\Users\Hazar\source\repos\Ödeme Sistemi Ödevi\Ödeme Sistemi Ödevi\bin\Debug\net8.0-windows\Ödeme Sistemi Ödevi.deps.json
+C:\Users\Hazar\source\repos\Ödeme Sistemi Ödevi\Ödeme Sistemi Ödevi\bin\Debug\net8.0-windows\Ödeme Sistemi Ödevi.runtimeconfig.json
+C:\Users\Hazar\source\repos\Ödeme Sistemi Ödevi\Ödeme Sistemi Ödevi\bin\Debug\net8.0-windows\Ödeme Sistemi Ödevi.dll
+C:\Users\Hazar\source\repos\Ödeme Sistemi Ödevi\Ödeme Sistemi Ödevi\bin\Debug\net8.0-windows\Ödeme Sistemi Ödevi.pdb
+C:\Users\Hazar\source\repos\Ödeme Sistemi Ödevi\Ödeme Sistemi Ödevi\obj\Debug\net8.0-windows\Ödeme_Sistemi_Ödevi.Form1.resources
+C:\Users\Hazar\source\repos\Ödeme Sistemi Ödevi\Ödeme Sistemi Ödevi\obj\Debug\net8.0-windows\Ödeme Sistemi Ödevi.csproj.GenerateResource.cache
+C:\Users\Hazar\source\repos\Ödeme Sistemi Ödevi\Ödeme Sistemi Ödevi\obj\Debug\net8.0-windows\Ödeme Sistemi Ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hazar\source\repos\Ödeme Sistemi Ödevi\Ödeme Sistemi Ödevi\obj\Debug\net8.0-windows\Ödeme Sistemi Ödevi.AssemblyInfoInputs.cache
+C:\Users\Hazar\source\repos\Ödeme Sistemi Ödevi\Ödeme Sistemi Ödevi\obj\Debug\net8.0-windows\Ödeme Sistemi Ödevi.AssemblyInfo.cs
+C:\Users\Hazar\source\repos\Ödeme Sistemi Ödevi\Ödeme Sistemi Ödevi\obj\Debug\net8.0-windows\Ödeme Sistemi Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Hazar\source\repos\Ödeme Sistemi Ödevi\Ödeme Sistemi Ödevi\obj\Debug\net8.0-windows\Ödeme Sistemi Ödevi.dll
+C:\Users\Hazar\source\repos\Ödeme Sistemi Ödevi\Ödeme Sistemi Ödevi\obj\Debug\net8.0-windows\refint\Ödeme Sistemi Ödevi.dll
+C:\Users\Hazar\source\repos\Ödeme Sistemi Ödevi\Ödeme Sistemi Ödevi\obj\Debug\net8.0-windows\Ödeme Sistemi Ödevi.pdb
+C:\Users\Hazar\source\repos\Ödeme Sistemi Ödevi\Ödeme Sistemi Ödevi\obj\Debug\net8.0-windows\Ödeme Sistemi Ödevi.genruntimeconfig.cache
+C:\Users\Hazar\source\repos\Ödeme Sistemi Ödevi\Ödeme Sistemi Ödevi\obj\Debug\net8.0-windows\ref\Ödeme Sistemi Ödevi.dll
