@@ -1,0 +1,16 @@
+C:\Users\Hazar\source\repos\WindowsÖğrenciDatabaseÖdevi\WindowsÖğrenciDatabaseÖdevi\bin\Debug\net8.0-windows\WindowsÖğrenciDatabaseÖdevi.exe
+C:\Users\Hazar\source\repos\WindowsÖğrenciDatabaseÖdevi\WindowsÖğrenciDatabaseÖdevi\bin\Debug\net8.0-windows\WindowsÖğrenciDatabaseÖdevi.deps.json
+C:\Users\Hazar\source\repos\WindowsÖğrenciDatabaseÖdevi\WindowsÖğrenciDatabaseÖdevi\bin\Debug\net8.0-windows\WindowsÖğrenciDatabaseÖdevi.runtimeconfig.json
+C:\Users\Hazar\source\repos\WindowsÖğrenciDatabaseÖdevi\WindowsÖğrenciDatabaseÖdevi\bin\Debug\net8.0-windows\WindowsÖğrenciDatabaseÖdevi.dll
+C:\Users\Hazar\source\repos\WindowsÖğrenciDatabaseÖdevi\WindowsÖğrenciDatabaseÖdevi\bin\Debug\net8.0-windows\WindowsÖğrenciDatabaseÖdevi.pdb
+C:\Users\Hazar\source\repos\WindowsÖğrenciDatabaseÖdevi\WindowsÖğrenciDatabaseÖdevi\obj\Debug\net8.0-windows\WindowsÖğrenciDatabaseÖdevi.StudentMenu.resources
+C:\Users\Hazar\source\repos\WindowsÖğrenciDatabaseÖdevi\WindowsÖğrenciDatabaseÖdevi\obj\Debug\net8.0-windows\WindowsÖğrenciDatabaseÖdevi.csproj.GenerateResource.cache
+C:\Users\Hazar\source\repos\WindowsÖğrenciDatabaseÖdevi\WindowsÖğrenciDatabaseÖdevi\obj\Debug\net8.0-windows\WindowsÖğrenciDatabaseÖdevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hazar\source\repos\WindowsÖğrenciDatabaseÖdevi\WindowsÖğrenciDatabaseÖdevi\obj\Debug\net8.0-windows\WindowsÖğrenciDatabaseÖdevi.AssemblyInfoInputs.cache
+C:\Users\Hazar\source\repos\WindowsÖğrenciDatabaseÖdevi\WindowsÖğrenciDatabaseÖdevi\obj\Debug\net8.0-windows\WindowsÖğrenciDatabaseÖdevi.AssemblyInfo.cs
+C:\Users\Hazar\source\repos\WindowsÖğrenciDatabaseÖdevi\WindowsÖğrenciDatabaseÖdevi\obj\Debug\net8.0-windows\WindowsÖğrenciDatabaseÖdevi.csproj.CoreCompileInputs.cache
+C:\Users\Hazar\source\repos\WindowsÖğrenciDatabaseÖdevi\WindowsÖğrenciDatabaseÖdevi\obj\Debug\net8.0-windows\WindowsÖğrenciDatabaseÖdevi.dll
+C:\Users\Hazar\source\repos\WindowsÖğrenciDatabaseÖdevi\WindowsÖğrenciDatabaseÖdevi\obj\Debug\net8.0-windows\refint\WindowsÖğrenciDatabaseÖdevi.dll
+C:\Users\Hazar\source\repos\WindowsÖğrenciDatabaseÖdevi\WindowsÖğrenciDatabaseÖdevi\obj\Debug\net8.0-windows\WindowsÖğrenciDatabaseÖdevi.pdb
+C:\Users\Hazar\source\repos\WindowsÖğrenciDatabaseÖdevi\WindowsÖğrenciDatabaseÖdevi\obj\Debug\net8.0-windows\WindowsÖğrenciDatabaseÖdevi.genruntimeconfig.cache
+C:\Users\Hazar\source\repos\WindowsÖğrenciDatabaseÖdevi\WindowsÖğrenciDatabaseÖdevi\obj\Debug\net8.0-windows\ref\WindowsÖğrenciDatabaseÖdevi.dll
