@@ -1,0 +1,6 @@
+C:\Users\Hazar\source\repos\HastaneRandevuDB\HastaneDB\bin\Debug\HastaneDB.dacpac
+C:\Users\Hazar\source\repos\HastaneRandevuDB\HastaneDB\bin\Debug\HastaneDB.dll
+C:\Users\Hazar\source\repos\HastaneRandevuDB\HastaneDB\bin\Debug\HastaneDB.pdb
+C:\Users\Hazar\source\repos\HastaneRandevuDB\HastaneDB\obj\Debug\HastaneDB.sqlproj.AssemblyReference.cache
+C:\Users\Hazar\source\repos\HastaneRandevuDB\HastaneDB\obj\Debug\HastaneDB.dll
+C:\Users\Hazar\source\repos\HastaneRandevuDB\HastaneDB\obj\Debug\HastaneDB.pdb
